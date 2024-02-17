@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: pedro-henrique/order-service
+  IMAGE_NAME: pedro-henrique2000/order-service
   VERSION: latest
 
 jobs:
